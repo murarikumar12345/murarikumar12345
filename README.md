@@ -9,7 +9,7 @@
   
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,androidstudio,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,androidstudio,bootstrap,css,html,idea,&perline=5)](https://skillicons.dev)
 
 
 
